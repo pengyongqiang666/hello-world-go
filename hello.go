@@ -1,5 +1,6 @@
 package hello_world_go
 
-func helloWorld(name string) {
+func HelloWorld(name string) {
 	println("hello world " + name)
+	println("version: v1.0.0")
 }
