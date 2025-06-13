@@ -1,4 +1,4 @@
-package hello_world_go
+package main
 
 func HelloWorld(name string) {
 	println("hello world " + name)
